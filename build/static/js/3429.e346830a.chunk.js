@@ -1,0 +1,1 @@
+(self.webpackChunkorderly_js_sdk_cra_template=self.webpackChunkorderly_js_sdk_cra_template||[]).push([[3429],{70495:()=>{},15340:()=>{},79838:()=>{},71281:()=>{}}]);
